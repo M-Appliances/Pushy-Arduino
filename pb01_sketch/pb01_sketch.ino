@@ -17,7 +17,7 @@
 
 const char* ssid     = "";    //  This is the name or your wireless network
 const char* password = "";      //  This is your wireless network password
-const char* objectID = "Barry";      //  This is the objectID issued to your device (on the Pantri device dashboard)
+const char* objectID = "";      //  This is the objectID issued to your device (on the Pantri device dashboard)
 
 //  This section defines pins that link your Adafruit Arduino Huzzah ESP8266 Feather board to your button, buzzer & LED.
 
