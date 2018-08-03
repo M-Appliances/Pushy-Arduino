@@ -23,9 +23,6 @@ void loop() {
     battery_level();
 
     //Connect To Wifi
-
-    Serial.print("sleepInit at A = ");
-    Serial.println(sleepInit);
     
     if (sleepInit == 1) {
         Serial.println("You've pressed the button...Lets talk to the Pantri API!");
@@ -36,8 +33,6 @@ void loop() {
 
         //Closing Down Until Button Press
     sleepInit = 1;
-    Serial.print("sleepInit at B = ");
-    Serial.println(sleepInit);
     Serial.println("Done... Night!");
     delay(1000);
     esp_deep_sleep_start();
