@@ -106,7 +106,7 @@ void connectToWifiSilent() {
     digitalWrite(alertLED, HIGH);
     digitalWrite(alertLED, HIGH);
     digitalWrite(buzzer, HIGH);
-    delay(4000);
+    delay(3000);
     digitalWrite(buzzer, LOW);
     delay(16000);
     digitalWrite(alertLED, LOW);
