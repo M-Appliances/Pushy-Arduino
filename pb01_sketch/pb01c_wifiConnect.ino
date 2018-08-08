@@ -113,8 +113,7 @@ void connectToWifiSilent() {
     digitalWrite(alertLED, LOW);
 
     //Return to deep sleep
-    workingSlowSilent();
-    esp_deep_sleep_start();
+    //esp_deep_sleep_start();
   }
 
 }
