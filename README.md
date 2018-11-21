@@ -17,3 +17,12 @@ Check out the guides and find out what we do at [Maker Appliances](https://maker
 * [Arduino ESP32 Library](https://github.com/espressif/arduino-esp32)
 * [Adafruit Feather Huzzah 32 Pinouts Diagram](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/pinouts)
 * [Andrease Speiss ESP32 (WROOM-32) Pinouts Diagram](https://github.com/SensorsIot/ESP32-Deep-Sleep/raw/master/ESP32.xlsx)
+
+
+#Help Us
+
+We're makers & we're learning all the time. So...
+
+If you want to get more involved, have some epic ideas, or just want to see what we are up to, then take a look at our new MakerAppliances brand. MakerAppliances is our development workshop, aimed at helping makers develop their own connected devices!
+
+Check out what we are upto at... [Maker Appliances.com](https://makerappliances.com)!
