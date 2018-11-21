@@ -1,13 +1,15 @@
 # Pushy
-**AKA PB02**
 
 **_Note this branch is still under development_**
 
-This repo contains the code for the second Maker Appliances device.  How cool is that eh?!
+This repo contains the code and resources for Pushy, a Maker Appliances device.
 
-Whilst you're here - check out what we do at [Maker Appliances](https://makerappliances.com)!
+Pushy is the ESP32 variant of our popular self build 'PushThru' [found here] (https://github.com/Maker-Appliances/PushThru/). Where our PushThru board uses standard thru hole components, the Pushy is a complete and assembled board making use of SMD components.
 
-_Even better, it now runs on the ESP 32 chip!_
+So... If you dont have the time to make a device, but want to play around with our code (and help us make it better) Pushy is the board for you!
+
+Check out the guides and find out what we do at [Maker Appliances](https://makerappliances.com)!
+
 
 ## Resources
 
