@@ -5,6 +5,8 @@
 
 This repo contains the code for the second Maker Appliances device.  How cool is that eh?!
 
+Whilst you're here - check out what we do at [Maker Appliances](https://makerappliances.com)!
+
 _Even better, it now runs on the ESP 32 chip!_
 
 ## Resources
